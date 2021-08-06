@@ -1,0 +1,14 @@
+.admin {
+  text-align: center;
+  margin-top: 50px;
+}
+.admin-input {
+  margin: 5px;
+  width: 250px;
+  height: 25px;
+}
+.admin-submit {
+  width: 80px;
+  margin-left: -175px;
+  cursor: pointer;
+}

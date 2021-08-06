@@ -1,0 +1,14 @@
+.adminCheck {
+  text-align: center;
+  margin-top: 60px;
+}
+.adminCheck input {
+  margin: 5px;
+  width: 200px;
+  height: 25px;
+}
+.adminCheck button {
+  width: 70px;
+  background-color: rgb(241, 236, 224);
+  cursor: pointer;
+}
